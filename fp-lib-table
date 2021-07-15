@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rover_PR_cards)(type KiCad)(uri ${KIPRJMOD}/rover_PR_cards.pretty)(options "")(descr ""))
+)
